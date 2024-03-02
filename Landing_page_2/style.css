@@ -1,0 +1,180 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ body{
+    max-width: 1440px;
+    background-color: #f0f4f5;
+    margin: auto ;
+    overflow: hidden;
+ }
+nav{
+height: 15vh;
+display:flex ;
+justify-content: space-between;
+align-items: center;
+ padding: 0 5%;   
+}
+
+nav span{
+   color: rgb(6, 120, 6); 
+   font-weight: 600;
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+nav ul{
+ list-style: none;
+ display: flex;
+ align-items: center;
+ 
+  
+}
+
+nav ul li{
+    margin-right: 40px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+nav ul li:first-child{
+    color: rgb(72, 165, 72);
+}
+
+
+/* hero section */
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+main section{
+    width: 50%;
+   position: relative;
+}
+.left_section{
+    margin-left: 8%;
+    position: relative;
+    top: 30px;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+
+    
+}
+
+.left_section button{
+ color: white;
+ background-color: aqua;
+ border: none;
+ align-content: center;
+ border-radius: 20px;
+ padding: 10px 20px 10px 20px;
+ font-size: 20px;
+ font-weight: 600;
+ position: relative;
+right: 190px;
+ 
+}
+
+
+.topangle{
+  height: 30px;
+  transform: rotate(225deg);
+ position: relative;
+ right: 300px;
+  
+}
+
+.left_section h1{
+    font-size: 70px;
+}
+
+.left_section p{
+    font-size: 20px;
+    color: #808080;
+
+}
+
+
+
+.bottomangle{
+    position: relative;
+    height: 30px;
+    transform: rotate(45deg);
+    left: 300px;
+    top: 50px;
+  }
+
+  /* .left_section .scope{
+    z-index: -2;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    width: 80%;
+  } */
+
+  .right_section{
+    width: 50%;
+    position: relative;
+    
+  }
+
+  /* .right_section .green{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    position: relative;
+    left: 200px;
+    top: 100px;
+    
+   
+  }
+  .right_section .orange{
+    height: 260px;
+    width: 260px;
+    border-radius: 100%;
+    position: relative;
+    right: 50px;
+    top: 70px;
+    
+  }
+
+.right_section .doctor{
+    position: relative;
+    bottom: 330px;
+    left: 150px;
+    
+} */
+
+
+.right_section .green{
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+ position: absolute;
+ right: 100px;
+  top: -80px;
+ 
+}
+.right_section .orange{
+  height: 260px;
+  width: 260px;
+  border-radius: 100%;
+  position: absolute;
+ right: 80px;
+ top: -60px;
+}
+
+.right_section .doctor{
+  position: absolute;
+  right: -30px;
+  top: -200px;
+  
+}
