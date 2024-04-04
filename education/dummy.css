@@ -1,0 +1,26 @@
+@media screen {
+    nav {
+     padding: 15px 20px;
+    }
+ nav img{
+    width: 130px;
+ }
+
+ #menu-btn{
+  
+
+    display: initial;
+    
+}
+
+#menu-close{
+    display: none;
+}
+nav .navigation ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+    
+}
