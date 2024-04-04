@@ -4,7 +4,7 @@
 This is a basic landing page created using HTML and CSS. It is designed for laptop screens. 
 
 ## Screenshot
-![Landing Page Screenshot](/Landing_page_2/landing_page.png)
+![Landing Page Screenshot](/Landing_page_2/landingpage2.png)
 
 ## Details
 - **Technologies Used**: HTML, CSS
