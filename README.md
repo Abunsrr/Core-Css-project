@@ -28,7 +28,7 @@ A collection of CSS projects focused on building flexible layouts and creating m
 | website | Link |
 |-------|------|
 | Basic Landing page 1| [Click Here](https://landingpageusingcss.netlify.app/) |
-| Basic Landing Page 2 | [Link 2](#) |
+| Basic Landing Page 2 | [Click Here](https://github.com/Abunsrr/Core-Css-project/tree/main/Landing_page_2) |
 | Eduactional Website |<a href="https://educationalclonesite.netlify.app/" target="_blank">Click Here</a>
 | Topic 4 | [Link 4](#) |
 | Topic 5 | [Link 5](#) |

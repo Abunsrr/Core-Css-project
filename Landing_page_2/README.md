@@ -1,10 +1,10 @@
-# My Awesome Landing Page
+# Fist Landing Page 
 
 ## Description
-This is a basic landing page created using HTML and CSS. It is designed for laptop screens.
+This is a basic landing page created using HTML and CSS. It is designed for laptop screens. 
 
 ## Screenshot
-![Landing Page Screenshot](landing_page.png)
+![Landing Page Screenshot](/Landing_page_2/landing_page.png)
 
 ## Details
 - **Technologies Used**: HTML, CSS
