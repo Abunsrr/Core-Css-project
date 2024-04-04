@@ -29,6 +29,9 @@ nav{
     list-style: none;
     
  }
+ nav ul li:hover{
+color: #3b855b;
+ }
  .main{
      display: grid;
     grid-template-columns: 1fr 1fr;
@@ -70,7 +73,9 @@ nav{
     font-size: 15px;
  }
 
-
+.btn:hover{
+   background:#4f715e;
+}
  .right_main{
     
     width: 60%;
@@ -78,4 +83,28 @@ nav{
 
  .right_main img{
     border-radius: 10px;
+ }
+ @media only screen and (max-width: 600px) {
+  
+   .main{
+      display: flex;
+      flex-direction: column;
+   }
+   
+ }
+
+ @media only screen and (max-width: 960px) {
+   .main{
+      display: flex;
+      flex-direction: column;
+   }
+   .right_main{
+      margin-top: 40px;
+   }
+
+   .right_main .img1{
+      display: flex;
+      flex-direction: column;
+   }
+
  }
