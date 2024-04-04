@@ -29,7 +29,7 @@ A collection of CSS projects focused on building flexible layouts and creating m
 |-------|------|
 | topic 1| [Link 1](#) |
 | Topic 2 | [Link 2](#) |
-| Eduactional Website | [Click Here](https://educationalclonesite.netlify.app/) |
+| Eduactional Website |<a href="https://educationalclonesite.netlify.app/" target="_blank">Click Here</a>
 | Topic 4 | [Link 4](#) |
 | Topic 5 | [Link 5](#) |
 | Topic 6 | [Link 6](#) |
